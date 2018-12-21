@@ -1,6 +1,7 @@
 {
   "name": "markdown-previewer",
   "version": "0.1.0",
+  "homepage": "https://ramon92.github.io/fcc-markdown/",
   "private": true,
   "dependencies": {
     "@types/jest": "^23.3.10",
